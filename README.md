@@ -1,4 +1,4 @@
-
+this is a deprecated proyect see https://github.com/PatricioCoronado/SegaSCPI
 The library is written in C. Segainvex_scpi_Serial is a library to communicate Arduino with PC through the SCPI protocol. You can send commands, with or without parameters, from the PC to Arduino. As a result, Arduino executes a function defined in the application and can return system variables to the PC.
 
 It can work with Serial port type Hardwareserial. 
